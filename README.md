@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is **Aldo Torres**
-#### *I'm a growing web developer*
+#### *I'm a growing fullstack web developer*
 I'm web developer student with a lot of desire to learn more about new technologies. I'm excitied to be part of a startup  and to be part of its growth.
 
-Skills:  HTML / CSS / JS / NODE / EXPRESS
+Skills:  HTML / CSS / JS / NODE / EXPRESS / ANGULAR
 
-- 🌱 I’m currently learning unit testing, authenticate and authorization also i'm learning Python with Django 
+- 🌱 I’m currently learning unit testing, authenticate and authorization. I enjoy developing APIs using Node.js and its frameworks.
 - 📫 How to reach me: renatotorrescalle@gmail.com 
 
 
